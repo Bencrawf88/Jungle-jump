@@ -1,9 +1,6 @@
-[gd_resource type="TileSet" load_steps=3 format=3 uid="uid://blhd0ogpuydej"]
-
-[ext_resource type="Texture2D" uid="uid://ldtssxu78xc3" path="res://assets/environment/props.png" id="1_x64ki"]
+[gd_resource type="TileSet" load_steps=2 format=3 uid="uid://blhd0ogpuydej"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_nevra"]
-texture = ExtResource("1_x64ki")
 9:10/0 = 0
 9:10/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 9:10/0/physics_layer_0/angular_velocity = 0.0

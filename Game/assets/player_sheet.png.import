@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mloty0m7ygn3"
-path="res://.godot/imported/enemy-death.png-4a9467fcfa1a60ac8564efa0cba1e74d.ctex"
+uid="uid://ddc3qj3sa0s0c"
+path="res://.godot/imported/player_sheet.png-641acc92a6c5fb700393e6fabd3443f6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://jungle_jump_assets/assets/sprites/enemy-death.png"
-dest_files=["res://.godot/imported/enemy-death.png-4a9467fcfa1a60ac8564efa0cba1e74d.ctex"]
+source_file="res://assets/player_sheet.png"
+dest_files=["res://.godot/imported/player_sheet.png-641acc92a6c5fb700393e6fabd3443f6.ctex"]
 
 [params]
 

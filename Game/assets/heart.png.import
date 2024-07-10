@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cw3xu0m8tcplp"
-path="res://.godot/imported/cherry_spawn.png-bf324370b448d7356a0468add3841eec.ctex"
+uid="uid://b1iwrvarpqsw8"
+path="res://.godot/imported/heart.png-9a2fa56e49d8a002fed7c28ce07513e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://jungle_jump_assets/assets/cherry_spawn.png"
-dest_files=["res://.godot/imported/cherry_spawn.png-bf324370b448d7356a0468add3841eec.ctex"]
+source_file="res://assets/heart.png"
+dest_files=["res://.godot/imported/heart.png-9a2fa56e49d8a002fed7c28ce07513e0.ctex"]
 
 [params]
 

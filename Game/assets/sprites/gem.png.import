@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bm4h7hgxnmkrs"
-path="res://.godot/imported/cherry.png-1173ff9d7da157dfb454d5f3ae4ba827.ctex"
+uid="uid://b7svcrccovnqa"
+path="res://.godot/imported/gem.png-c28d3753a9c05558c8bb68b0051f67e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://jungle_jump_assets/assets/sprites/cherry.png"
-dest_files=["res://.godot/imported/cherry.png-1173ff9d7da157dfb454d5f3ae4ba827.ctex"]
+source_file="res://assets/sprites/gem.png"
+dest_files=["res://.godot/imported/gem.png-c28d3753a9c05558c8bb68b0051f67e8.ctex"]
 
 [params]
 
